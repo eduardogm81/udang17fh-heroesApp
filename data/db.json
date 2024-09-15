@@ -166,6 +166,24 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "dsyAqBO",
+      "superhero": "Strider",
+      "publisher": "DC Comics",
+      "alter_ego": "hyriu",
+      "first_appearance": "Strider comics #1",
+      "characters": "hyriu1111",
+      "alt_img": "https://i.pinimg.com/474x/c9/1e/e1/c91ee1fd6c0c333c2e36ed031bde65a0.jpg"
+    },
+    {
+      "id": "qpqxcLC",
+      "superhero": "Super Mario",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Mario",
+      "first_appearance": "Mario comics #1",
+      "characters": "Mario",
+      "alt_img": "https://static.printler.com/cache/0/3/5/a/d/f/035adf88ecae31388596ce480f40efdf9d6a6cf1.jpg"
     }
   ]
 }
